@@ -1,0 +1,23 @@
+{
+  "name": "opensource",
+  "author": "Maiste <dev@maiste.fr> (https://maiste.fr)",
+  "license": "GPL-3.0",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.46.3",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-the-unnamed": "^0.0.15"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.42.0",
+    "prettier": "^3.0.0",
+    "typescript": "^5.0.0"
+  }
+}
