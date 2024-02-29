@@ -1,0 +1,61 @@
+.slidev-layout.default h1 {
+    margin-bottom: 10px;
+}
+
+.slidev-layout.default > div > ul, .slidev-layout.default > div > ol {
+    margin-top: 1em;
+}
+
+.slidev-layout.default img {
+    max-height: 350px;
+}
+
+.arrow {
+    color:  var(--slidev-theme-accents-red);
+}
+
+.oneline {
+    display: flex;
+    align-items: center;
+}
+
+.oneline p {
+    margin: 0px;
+}
+
+.oneline svg {
+    margin-left: 10px;
+    color: var(--slidev-theme-accents-red);
+}
+
+.col-left h1 {
+    margin-bottom: 5px;
+}
+
+.image-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.margin-50 {
+    margin-top: 50px;
+}
+
+mark {
+    background: var(--slidev-theme-accents-teal);
+    padding-left: 3px;
+    padding-right: 5px;
+}
+
+.slidev-layout.default > .no-margin ul, ol {
+    margin-top: 0px;
+}
+
+.image-col {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+
