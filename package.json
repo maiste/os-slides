@@ -10,11 +10,11 @@
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "^0.46.3",
+    "@slidev/cli": "^51.2.1",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "axios": "^1.7.6",
-    "slidev-theme-the-unnamed": "^0.0.15"
+    "axios": "^1.7.9",
+    "slidev-theme-the-unnamed": "^0.0.22"
   },
   "devDependencies": {
     "playwright-chromium": "^1.42.0",
