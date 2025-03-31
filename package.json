@@ -13,7 +13,7 @@
     "@slidev/cli": "^51.2.1",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "axios": "^1.7.9",
+    "axios": "^1.8.4",
     "slidev-theme-the-unnamed": "^0.0.22"
   },
   "devDependencies": {
